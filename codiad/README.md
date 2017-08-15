@@ -1,8 +1,8 @@
 # Codiad docker image
 
 * Current version: 2.8.4
-* Check already-built images on
-  [Docker Hub](https://hub.docker.com/r/xiangquan/codiad/tags/).
+* Source code on [Github](https://github.com/xiaoxq/docker-toolkit/tree/master/codiad)
+* Built image on [Docker Hub](https://hub.docker.com/r/xiangquan/codiad/tags/)
 
 ## Usage
 
